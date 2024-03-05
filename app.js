@@ -2,11 +2,11 @@
 
 // Q1 city
 
-var city = prompt("Enter your city");
+// var city = prompt("Enter your city");
 
-if(city == "karachi"){
-   document.write("Welcome to city of light")
-}
+// if(city == "karachi"){
+//    document.write("Welcome to city of light")
+// }
 
 // Q2 input from user gender male or female messages
 
@@ -189,22 +189,22 @@ if(city == "karachi"){
 
 //Q-11
 
-// var num1 = +prompt("enter first number");
-// var num2 = +prompt("enter second number")
-// var operator = prompt("Select one operator + - x / ")
+var num1 = +prompt("enter first number");
+var num2 = +prompt("enter second number")
+var operator = prompt("Select one operator + - x / ")
 
-// if (operator === "+"){
-//     alert("Result is " + num1 + num2)
-// }
-// else if(operator === "-"){
-//     alert("Result is " + num1 - num2)
-// }
-// else if(operator === "*"){
-//     alert("Result is " + num1 * num2)
-// }
-// else if(operator === "/"){
-//     alert("Result is " + num1 / num2)
-// }
-// else if(operator === "%"){
-//     alert("Result is " + num1 % num2)
-// }
+if (operator === "+"){
+    alert(num1 + num2)
+}
+else if(operator === "-"){
+    alert( num1 - num2)
+}
+else if(operator === "*"){
+    alert( num1 * num2)
+}
+else if(operator === "/"){
+    alert(num1 / num2)
+}
+else if(operator === "%"){
+    alert(  num1 % num2)
+}
