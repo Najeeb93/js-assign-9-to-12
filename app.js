@@ -189,22 +189,32 @@
 
 //Q-11
 
-var num1 = +prompt("enter first number");
-var num2 = +prompt("enter second number")
-var operator = prompt("Select one operator + - x / ")
+// var num1 = +prompt("enter first number");
+// var num2 = +prompt("enter second number")
+// var operator = prompt("Select one operator + - x / ")
 
-if (operator === "+"){
-    alert(num1 + num2)
-}
-else if(operator === "-"){
-    alert( num1 - num2)
-}
-else if(operator === "*"){
-    alert( num1 * num2)
-}
-else if(operator === "/"){
-    alert(num1 / num2)
-}
-else if(operator === "%"){
-    alert(  num1 % num2)
+// if (operator === "+"){
+//     alert(num1 + num2)
+// }
+// else if(operator === "-"){
+//     alert( num1 - num2)
+// }
+// else if(operator === "*"){
+//     alert( num1 * num2)
+// }
+// else if(operator === "/"){
+//     alert(num1 / num2)
+// }
+// else if(operator === "%"){
+//     alert(  num1 % num2)
+// }
+
+//Extra pratice question 
+
+var a = 10;
+if (a !== 15){
+   document.write("Correct")
+} 
+else{
+   document.write("Incorret")
 }
