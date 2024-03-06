@@ -222,17 +222,17 @@
 
 // Q5
 
-var newPassword = "abc";
-var password = prompt("enter your password")
-if (password === ""){
-    alert("please enter password")
-}
-else if(newPassword === password){
-    alert("Correct! The password you entered matches the original password.")
-}
-else(
-    alert("Incorrect password")
-)
+// var newPassword = "abc";
+// var password = prompt("enter your password")
+// if (password === ""){
+//     alert("please enter password")
+// }
+// else if(newPassword === password){
+//     alert("Correct! The password you entered matches the original password.")
+// }
+// else(
+//     alert("Incorrect password")
+// )
 //Extra pratice question 
 
 // var a = 10;
