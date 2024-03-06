@@ -209,6 +209,17 @@
 //     alert(  num1 % num2)
 // }
 
+// Assignment #12-13
+
+// Q3 
+var checkNumber = +prompt("enter a number to check is postive or negative");
+if (checkNumber > 0){
+    alert(checkNumber + " is Positive")
+}
+else if(checkNumber < 0){
+    alert(checkNumber + " is Negative")
+}
+
 //Extra pratice question 
 
 // var a = 10;
