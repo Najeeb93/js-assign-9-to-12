@@ -252,25 +252,25 @@
 
 // Q6
 
-var greeting;
-var houre = +prompt("enter hour to see")
-var hour = 12;
-if (houre < hour) {
-    greeting = "Good Morning";
-    alert(greeting);
-}
-else if (houre > hour && houre < 17) {
-    greeting = "Good Day";
-    alert(greeting);
-}
-else if (houre >= 17) {
-    greeting = "Good Evening ";
-    alert(greeting);
-}
-else{
-    greeting = "Nice Day";
-    alert(greeting);
-}
+// var greeting;
+// var houre = +prompt("enter hour to see")
+// var hour = 12;
+// if (houre < hour) {
+//     greeting = "Good Morning";
+//     alert(greeting);
+// }
+// else if (houre > hour && houre < 17) {
+//     greeting = "Good Day";
+//     alert(greeting);
+// }
+// else if (houre >= 17) {
+//     greeting = "Good Evening ";
+//     alert(greeting);
+// }
+// else{
+//     greeting = "Nice Day";
+//     alert(greeting);
+// }
 
 
 //Extra pratice question
