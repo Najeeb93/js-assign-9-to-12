@@ -213,17 +213,17 @@
 
 // Q2 
 
-var firstIntegar = +prompt("enter first integar");
-var secondIntegar = +prompt("enter second integar");
-if (firstIntegar > secondIntegar){
-    alert("firstintegar " + " " + "is larger than second integar");
-}
-else if(secondIntegar > firstIntegar){
-    alert("second integar" + " " + "is larger than first integar")
-}   
-else{
-    alert("Both integars are equal")
-}
+// var firstIntegar = +prompt("enter first integar");
+// var secondIntegar = +prompt("enter second integar");
+// if (firstIntegar > secondIntegar){
+//     alert("firstintegar " + " " + "is larger than second integar");
+// }
+// else if(secondIntegar > firstIntegar){
+//     alert("second integar" + " " + "is larger than first integar")
+// }   
+// else{
+//     alert("Both integars are equal")
+// }
 
 
 // Q3 
