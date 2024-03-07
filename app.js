@@ -211,6 +211,21 @@
 
 // Assignment #12-13
 
+// Q2 
+
+var firstIntegar = +prompt("enter first integar");
+var secondIntegar = +prompt("enter second integar");
+if (firstIntegar > secondIntegar){
+    alert("firstintegar " + " " + "is larger than second integar");
+}
+else if(secondIntegar > firstIntegar){
+    alert("second integar" + " " + "is larger than first integar")
+}   
+else{
+    alert("Both integars are equal")
+}
+
+
 // Q3 
 // var checkNumber = +prompt("enter a number to check is postive or negative");
 // if (checkNumber > 0){
@@ -231,7 +246,7 @@
 //     alert("Correct! The password you entered matches the original password.")
 // }
 // else(
-//     alert("Incorrect password")
+//     alert("Incorrect passwor d")
 // )
 //Extra pratice question 
 
