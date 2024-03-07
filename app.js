@@ -274,19 +274,22 @@
 
 // Q7
 
-var time = prompt("Enter time to check greeting")
-if(time >= "0000" && time <= "12:00"){
-    alert("Good Morning");
-}
-else if(time >= "12:00" && time <= "17:00"){
-    alert("Good Afternoon");
-}
-else if(time >= "17:00" && time <= "21:00"){
-    alert("Good Evening");
-}
-else if(time >= "21:00" && time <= "2:400"){
-    alert("Good Night")
-}
+// var time = prompt("Enter time to check greeting")
+// if(time >= "0000" && time <= "12:00"){
+//     alert("Good Morning");
+// }
+// else if(time >= "12:00" && time <= "17:00"){
+//     alert("Good Afternoon");
+// }
+// else if(time >= "17:00" && time <= "21:00"){
+//     alert("Good Evening");
+// }
+// else if(time >= "21:00" && time <= "2:400"){
+//     alert("Good Night")
+// }
+
+
+
 
 
 
