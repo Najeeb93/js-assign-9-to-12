@@ -13,10 +13,10 @@
 //var message = prompt("Please type your gender");
 
 //if(message == "male"){
-    //document.write("Good Morning Sir.")
+//document.write("Good Morning Sir.")
 //}
 //else if (message == "female"){
-   // document.write("Good Morning Ma'am..")
+// document.write("Good Morning Ma'am..")
 //}
 
 // Q3 Road Traffic signal 
@@ -235,6 +235,7 @@
 //     alert(checkNumber + " is Negative")
 // }
 
+
 // Q5
 
 // var newPassword = "abc";
@@ -248,12 +249,36 @@
 // else(
 //     alert("Incorrect passwor d")
 // )
-//Extra pratice question 
+
+// Q6
+
+var greeting;
+var houre = +prompt("enter hour to see")
+var hour = 12;
+if (houre < hour) {
+    greeting = "Good Morning";
+    alert(greeting);
+}
+else if (houre > hour && houre < 17) {
+    greeting = "Good Day";
+    alert(greeting);
+}
+else if (houre >= 17) {
+    greeting = "Good Evening ";
+    alert(greeting);
+}
+else{
+    greeting = "Nice Day";
+    alert(greeting);
+}
+
+
+//Extra pratice question
 
 // var a = 10;
 // if (a !== 15){
 //    document.write("Correct")
-// } 
+// }
 // else{
 //    document.write("Incorret")
 // }
