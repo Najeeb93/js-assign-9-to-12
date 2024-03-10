@@ -329,3 +329,12 @@
 // else{
 //    alert("You didn't write correct percentage")
 // }
+
+
+// question
+
+var  highIncome = true;
+var supportiveTeam = true;
+var happyLife = highIncome && supportiveTeam;
+
+console.log(happyLife);
