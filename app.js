@@ -333,8 +333,8 @@
 
 // question
 
-var  highIncome = true;
-var supportiveTeam = true;
-var happyLife = highIncome && supportiveTeam;
+// var  highIncome = true;
+// var supportiveTeam = true;
+// var happyLife = highIncome && supportiveTeam;
 
-console.log(happyLife);
+// console.log(happyLife);
