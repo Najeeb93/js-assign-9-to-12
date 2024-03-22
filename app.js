@@ -338,3 +338,7 @@
 // var happyLife = highIncome && supportiveTeam;
 
 // console.log(happyLife);
+
+var num = 5 
+var res = num++ + num
+document.write(res)
