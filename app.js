@@ -343,9 +343,16 @@
 // var res = num++ + num
 // document.write(res)
 
-var num1 = 6
-var  num2 = 3
-var res = num1++ + num1++ + ++num2 + num2++ + num1++
-     //       6   +  7     +  4    +   4    + 8
+// var num1 = 6
+// var  num2 = 3
+// var res = num1++ + num1++ + ++num2 + num2++ + num1++
+//      //       6   +  7     +  4    +   4    + 8
 
-document.write(res)
+// document.write(res)
+
+var num1 = 6
+var num2 = 3
+var num3 = 10
+var res2 = --num1 - --num2 + num3++ + num3-- + num1
+            5     -  2     + 10     +  11    + 5
+   document.write(res2)         
