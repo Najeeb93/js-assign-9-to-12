@@ -339,6 +339,13 @@
 
 // console.log(happyLife);
 
-var num = 5 
-var res = num++ + num
+// var num = 5 
+// var res = num++ + num
+// document.write(res)
+
+var num1 = 6
+var  num2 = 3
+var res = num1++ + num1++ + ++num2 + num2++ + num1++
+     //       6   +  7     +  4    +   4    + 8
+
 document.write(res)
