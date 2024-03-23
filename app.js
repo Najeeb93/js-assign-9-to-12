@@ -357,6 +357,10 @@
 //             5     -  2     + 10     +  11    + 5
 //    document.write(res2)         
 
-var numbers =[33,2,8];
-numbers.sort();
-console.log(numbers[1])
+// var numbers =[33,2,8];
+// numbers.sort();
+// console.log(numbers[1])
+
+
+console.log(3 > 2 > 1);
+
