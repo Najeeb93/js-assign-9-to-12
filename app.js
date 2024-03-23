@@ -350,9 +350,13 @@
 
 // document.write(res)
 
-var num1 = 6
-var num2 = 3
-var num3 = 10
-var res2 = --num1 - --num2 + num3++ + num3-- + num1
-            5     -  2     + 10     +  11    + 5
-   document.write(res2)         
+// var num1 = 6
+// var num2 = 3
+// var num3 = 10
+// var res2 = --num1 - --num2 + num3++ + num3-- + num1
+//             5     -  2     + 10     +  11    + 5
+//    document.write(res2)         
+
+var numbers =[33,2,8];
+numbers.sort();
+console.log(numbers[1])
