@@ -370,4 +370,12 @@
 
 // console.log(typeof typeof 1);
 
-console.log(false == '0');
+// console.log(false == '0');
+
+// console.log(10 != '10');
+// console.log( 10 === '10')
+
+// var comparision = 10 <= 10 || 10 < 6 || 10 > 15;
+//  var comparision = 10 <= 10 && 10 < 6 && 10 > 15
+// console.log(comparision)
+
