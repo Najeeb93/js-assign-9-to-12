@@ -368,4 +368,6 @@
 
 // console.log(1 + "2" + "2");
 
-console.log(typeof typeof 1);
+// console.log(typeof typeof 1);
+
+console.log(false == '0');
